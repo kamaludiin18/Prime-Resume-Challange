@@ -1,0 +1,42 @@
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff">
+  <br><br>
+  <h1>Resume</h1>
+  <h2>Kamal Mohamed</h2>
+  <hr />
+  <br>
+  <p class="head">Interests</p>
+  <ul>
+    <li>designing</li>
+    <li>outdoor activities</li>
+    <li>reading scifi articles</li>
+    <li>Programming</li>
+    <li>Computer Science</li>
+  </ul>
+  <p class="head">Skills</p>
+  <ul>
+    <li>Test Cases and Test plans</li>
+  </ul>
+  <p class="head">Education</p>
+  <ul>
+    
+      <li>Mount Kenya University</li>
+    </a>
+   
+  </ul>
+  <p class="head">Experience</p>
+  <ul>
+    <li>Office Manager</li>
+    <li>Medical Operator</li>
+  </ul>
+  <p class="head">Extracurriculars</p>
+  <ul>
+    <li>Soccer assitant couch</li>
+    <li>community activist</li>
+    <li>Book Club</li>
+  </ul>
+</div>
+<div class="right"></div>
+<div id="footer">
+  <h2 id="name">Emily</h2></div>
